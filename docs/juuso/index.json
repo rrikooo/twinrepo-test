@@ -9,7 +9,7 @@
         "website": "https://people.aalto.fi/juuso.autiosalo"
     },
     "location": {
-        "streetAddress": "Helsinki, Finland"
+        "streetAddress": "S\u00f6rn\u00e4inen, Helsinki, Finland"
     },
     "features": [
         {
@@ -32,6 +32,6 @@
             "address": "https://github.com/juusoautiosalo"
         }
     ],
-    "edit": "https://github.com/juusoautiosalo/twinrepo-test/edit/main/docs/juuso/index.yaml",
+    "edit": "https://github.com/juusoautiosalo/twinbase/edit/main/docs/juuso/index.yaml",
     "baseurl": "https://dtw.dtp.fi"
 }
